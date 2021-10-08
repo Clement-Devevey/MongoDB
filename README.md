@@ -36,6 +36,6 @@ Gestion d'un sport (matchs, équipes, ...)
 # collection stockant tous les joueurs ayant jouées 3 matchs avec la moyenne de chacune des notes ($average) map ? 
 
 # Livrable :
-Script mondoDB de définition et manipulation des donnéesµ
-commentaires scripts
-GITHUB autorisé
+- Script mondoDB de définition et manipulation des donnéesµ
+- commentaires scripts
+- GITHUB autorisé
