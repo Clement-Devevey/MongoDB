@@ -6,7 +6,7 @@ db.equipe.insert({
 
     pays: 'France',
 
-    effectif: ['Shox', 'Zywoo', 'Apex', 'Misutaa', 'Kyojin', 'XTQZZZ']
+    effectif: ['Zywoo', 'Shox', 'Apex', 'Misutaa', 'Kyojin', 'XTQZZZ']
 
 });
 
