@@ -33,7 +33,7 @@ Gestion d'un sport (matchs, équipes, ...)
 # listing commandes : 
 - insertion équipe, joueur, matchs
 
-# collection stockant tous les joueurs ayant jouées 3 matchs avec la moyenne de chacune des notes ($average) map ? 
+# collection stockant tous les joueurs ayant jouées 3 matchs avec la moyenne de chacune des notes
 
 # Livrable :
 - Script mondoDB de définition et manipulation des donnéesµ
